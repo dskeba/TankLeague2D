@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Map
+  - Ball
+  - VirtualCamera
+  - EnemyGoal
+  - PlayerGoal
+  - Score
+  - Countdown
+  - Goal
+  - LoadBar
+  - TankPlayer
+  - Tank
+  - SpawnPointHealth
+  - SpawnPointBoost
+  - SpawnPointBall
+  - SpawnPointTankPlayer
+  - SpawnPointTankAI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Collidable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2176853107
+    locked: 0
+  - name: Foreground
+    uniqueID: 1315886801
+    locked: 0
+  - name: Tilemap
+    uniqueID: 2391307779
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 623938373
+    locked: 0
